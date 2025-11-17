@@ -1,6 +1,7 @@
 # 🎓 Güvenli Sınav Dosya Toplama Sistemi (v1.1)
 
 Modern ve güvenli bir sınav dosyası toplama ve yönetim sistemi. Öğrencilerin sınav dosyalarını yüklemesini, IP yapılandırmasını ve tüm aktivitelerin takibini sağlar.
+İsterseniz ExamFlowSystem Setup.exe dosyası ile windows makinelere direkt olarak kurabilirsiniz.
 
 ---
 
